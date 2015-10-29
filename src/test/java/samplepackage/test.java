@@ -8,6 +8,8 @@ public class test {
 	public void testex()
 	{
 		System.out.println("This is version 1 code");
+		
+		System.out.println("Adding is version 2 code");
 	}
 
 }
