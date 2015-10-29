@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class test {
 
-	@Test	
+	@Test	(groups ={"smoketest"})
 	public void testex()
 	{
 		System.out.println("This is version 1 code");

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sepbatch" duration-ms="40" started-at="2015-10-29T07:18:04Z" finished-at="2015-10-29T07:18:04Z">
+    <groups>
+      <group name="smoketest">
+        <method signature="test.testex()[pri:0, instance:samplepackage.test@2f7a2457]" name="testex" class="samplepackage.test"/>
+      </group> <!-- smoketest -->
+    </groups>
+    <test name="RegSet1" duration-ms="40" started-at="2015-10-29T07:18:04Z" finished-at="2015-10-29T07:18:04Z">
+      <class name="samplepackage.test">
+        <test-method status="PASS" signature="testex()[pri:0, instance:samplepackage.test@2f7a2457]" name="testex" duration-ms="14" started-at="2015-10-29T12:48:04Z" finished-at="2015-10-29T12:48:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testex -->
+      </class> <!-- samplepackage.test -->
+    </test> <!-- RegSet1 -->
+  </suite> <!-- Sepbatch -->
+</testng-results>
